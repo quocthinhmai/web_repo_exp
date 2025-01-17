@@ -4,3 +4,10 @@ body{
 h1{
     color: darkred;
 }
+#first {
+    color: darkblue;
+}
+.vegan {
+    color: blueviolet;
+    font-weight: bold;
+}
